@@ -6,7 +6,7 @@
 Berikut flowchart untu menentukan nilai terbesar dari 3 buah bilangan
 
 
-![Gambar 1].(screenshoot/flowchart.png)
+![Gambar 1](screenshoot/flowchart.png)
 
 
 # Menggunakan statement if untuk mencari nilai terbesar dari 3 bilangan
@@ -17,16 +17,16 @@ Berikut flowchart untu menentukan nilai terbesar dari 3 buah bilangan
 ### berikut ini gambar program dan tulisan programnya :
 
 
-![Gambar 2].(screenshoot/praktikum2.png)
+![Gambar 2](screenshoot/praktikum2.png)
 
 ### Untuk hasil program dijalankan, bilangan pertama yang terbesar
 
-![Gambar 3].(screenshoot/praktikum2_1.png)
+![Gambar 3](screenshoot/praktikum2_1.png)
 
 ### Untuk hasil program dijalankan, bilangan kedua yang benar
 
-![Gambar 4].(screenshoot/praktikum2_2.png)
+![Gambar 4](screenshoot/praktikum2_2.png)
 
 ### Untuk hasil program dijalankan, bilangan ketiga yang benar
 
-![Gambar 5].(screenshoot/praktikum2_3.png)
+![Gambar 5](screenshoot/praktikum2_3.png)
